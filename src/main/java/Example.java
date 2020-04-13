@@ -22,7 +22,7 @@ public class Example<T> {
 
     	testList.add(6);
 
-    	testList.add(13);
+    	testList.add(12);
 
     	testList.add(10);
 
